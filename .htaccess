@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^home index.html
+RewriteRule ^volunteering volunteering.html
+RewriteRule ^gallery gallery.html
+RewriteRule ^social-timeline socialtimeline.html
